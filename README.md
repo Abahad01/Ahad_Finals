@@ -1,5 +1,4 @@
-# Cream_Corner
-Ice-cream ordering website
+# Ahad_Finals
 Please download and install node.js and MongoDB.
 Use VSCode as editor or IDE.
 Install node packages using npm i or install in the terminal.
